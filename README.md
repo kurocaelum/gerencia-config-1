@@ -1,1 +1,3 @@
-# gerencia-config-1
+# Gerência de configuração e mudanças
+
+Exercício 1
