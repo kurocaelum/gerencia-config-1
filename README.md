@@ -1,3 +1,3 @@
 # Gerência de configuração e mudanças
 
-Exercício 1
+Repositório sandbox para uso em aula.
